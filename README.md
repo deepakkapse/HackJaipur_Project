@@ -1,3 +1,4 @@
+#HackJaipur_Project
 ![Python](https://img.shields.io/badge/python-v3.4+-blue.svg)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Adityanagraj/covid-19-whatsupBot/)</align>
 [![open for contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Adityanagraj/covid-19-whatsupBot/issues)
@@ -24,6 +25,6 @@ The Binder Project is an open community that makes it possible to create sharabl
 <B>©️ Clone the repo<br>
   https://github.com/Adityanagraj/covid-19-whatsupBot.git <br><br>
  
-image:: https://mybinder.org/badge_logo.svg<br> 
+ 
 target: https://mybinder.org/v2/gh/Adityanagraj/viola/master?urlpath=voila%2Frender%2Fcoronahospitalsoutput.ipynb
 ![binder](binder.png)
