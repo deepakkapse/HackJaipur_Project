@@ -19,7 +19,7 @@ which gives the live tracking covid 19 in India.<br>
 </ul>
 
 <B> 📹 watch it live<br>
-  https://www.youtube.com/watch?v=NL-PxclX1cs&t=35s <br><br>
+  <br><br>
 <B>©️ Clone the repo<br>
   https://github.com/Adityanagraj/covid-19-whatsupBot.git <br><br>
 
