@@ -1,0 +1,10 @@
+jupyterhub
+jupyterlab
+requests
+pandas
+textblob
+plotly-express
+voila
+numpy
+folium
+xlrd
