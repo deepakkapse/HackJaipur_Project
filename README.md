@@ -21,7 +21,7 @@ The Binder Project is an open community that makes it possible to create sharabl
 </ul>
 
 <B> 📹 watch it live<br>
-  <br>https://youtu.be/RqqKNPLys1Q<br>
+  https://youtu.be/RqqKNPLys1Q<br>
 <B>©️ Clone the repo<br>
   https://github.com/Adityanagraj/covid-19-whatsupBot.git <br><br>
  
