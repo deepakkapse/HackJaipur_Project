@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/badge/python-v3.4+-blue.svg)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Adityanagraj/covid-19-whatsupBot/)</align>
 [![open for contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Adityanagraj/covid-19-whatsupBot/issues)
-[![MIT License](https://img.shields.io/github/license/Adityanagraj/covid-19-whatsupBot.svg?style=flat-square)](https://github.com/Adityanagraj/covid-19-whatsupBot/blob/master/Licence.md)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Adityanagraj/viola/master?urlpath=voila%2Frender%2Fcoronahospitalsoutput.ipynb)<br>
 
 This repo is created to develop our whatsapp bot for COVID19 Tracking system<br>
