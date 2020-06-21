@@ -32,7 +32,7 @@ The Binder Project is an open community that makes it possible to create sharabl
      
 
 
-This Repo is created to convert jupyter notebook as a dashboard using the <b>Binder platform</B><Br>
+This Repo is created to convert jupyter notebook as a dashboard using the <b>Binder platform</b><Br>
 The Binder Project is an open community that makes it possible to create sharable, interactive, reproducible environments. 
 
  image:: https://mybinder.org/badge_logo.svg<br>
