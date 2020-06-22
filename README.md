@@ -17,7 +17,7 @@ The Binder Project is an open community that makes it possible to create sharabl
 <ul>
   <li>Flask a python framework</li>
   <li>python</li>
-  <li>Twillo account</li>
+  <li>Twillo sandbox account</li>
   <li>virtual environment</li>
   <li>working whatsup account</li>
   <li>Voila library</li>
